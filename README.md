@@ -35,7 +35,6 @@ Servo control
 Gameplay
 
 [![Claw-Machine](https://img.youtube.com/vi/I7ylIgHPo7k/0.jpg)](https://www.youtube.com/watch?v=I7ylIgHPo7k)
-
 You can click the image to see the video.
 
 Website
