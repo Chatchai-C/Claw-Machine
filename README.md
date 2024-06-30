@@ -32,10 +32,11 @@ Servo control
 ![Servo2](https://github.com/Chatchai-C/Claw-Machine/assets/173725117/2a063769-d00c-49d4-90e5-6d463b7e0f3c)
 
 ## Demo
-Gameplay
+Gameplay(You can click the image to see the video)
 
 [![Claw-Machine](https://img.youtube.com/vi/I7ylIgHPo7k/0.jpg)](https://www.youtube.com/watch?v=I7ylIgHPo7k)
-You can click the image to see the video.
+
+
 
 Website
 
